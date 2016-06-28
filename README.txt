@@ -1,6 +1,6 @@
 TCPixel Smash Queue Bot for TCPixel by CollinScripter
 
-Version 0.2.0
+Version 0.2.1
 
 Current Commands
 
@@ -19,6 +19,7 @@ Planned Features
 
 Changelog
 
+Version 0.2.1 - Fixes
 Version 0.2.0 - Settings menu
 Version 0.1.3 - Added autoupdating 
 Version 0.1.2 - Added the command !queue
