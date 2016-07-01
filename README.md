@@ -1,6 +1,6 @@
 # Twitch Smash Queue Bot
 
-Version 0.2.2
+Version 0.2.3
 
 
 Usage
@@ -41,10 +41,11 @@ Planned Features
 
 Changelog
 
+Version 0.2.3 - Keep settings between updates
 
 Version 0.2.1 & 0.2.2 - Fixes
 
-Version 0.2.0 - Settings menu
+Version 0.2.0 - Settings menu, Public Release
 
 Version 0.1.3 - Added autoupdating 
 
