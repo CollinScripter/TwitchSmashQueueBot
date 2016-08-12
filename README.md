@@ -1,9 +1,9 @@
 # Twitch Smash Queue Bot
 
-Version 0.2.3
+##Version 0.2.4
 
 
-Usage
+##Usage
 
 
 Type in the channel you want the queue to 
@@ -15,7 +15,7 @@ Type in the command for skipping songs
 Save Settings and open the program whenever you need it
 
 
-Current Commands
+##Current Commands
 
 
 !join - Add user to queue
@@ -27,19 +27,21 @@ Current Commands
 !queue - List the next 5 players in the queue
 
 
-Planned Commands
+##Planned Commands
 
 
 Currently Nothing
 
 
-Planned Features
+##Planned Features
 
 
 !join [boxing, pokemon, FFA, 2v2] Default 1v1
 
 
-Changelog
+##Changelog
+
+Version 0.2.4 - Ability to edit settings on the fly, Crash recovery, other stuff I don't remember
 
 Version 0.2.3 - Keep settings between updates
 
@@ -56,4 +58,4 @@ Version 0.1.1 - Added the command !skip
 Version 0.1 - Initial Private Release - Added commands !join, !drop
 
 
-Thanks to chhopsky for twitchat - https://github.com/chhopsky/twitchat
+##Thanks to chhopsky for twitchat - https://github.com/chhopsky/twitchat
