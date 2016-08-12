@@ -1,6 +1,6 @@
 # Twitch Smash Queue Bot
 
-Version 0.2.3
+Version 0.2.4
 
 
 Usage
@@ -40,6 +40,8 @@ Planned Features
 
 
 Changelog
+
+Version 0.2.4 - Ability to update settings and keeq queue. How many players !queue displays, etc 
 
 Version 0.2.3 - Keep settings between updates
 
