@@ -1,6 +1,6 @@
 # Twitch Smash Queue Bot
 
-##Version 0.2.4
+##Version 0.2.5
 
 
 ##Usage
@@ -41,7 +41,9 @@ Currently Nothing
 
 ##Changelog
 
-Version 0.2.4 - Ability to edit settings on the fly, Crash recovery, other stuff I don't remember
+Version 0.2.5 - Store queue between sessions, improved stability
+
+Version 0.2.4 - Ability to edit settings on the fly, Crash recovery, improved stability
 
 Version 0.2.3 - Keep settings between updates
 
